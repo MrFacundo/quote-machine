@@ -1,18 +1,12 @@
 @import "~bootstrap/scss/bootstrap";
 
-.App {
-	text-align: center;
-}
-
 #wrapper {
 	background-color: #282c34;
 	min-height: 100vh;
 	display: flex;
 	font-size: calc(10px + 2vmin);
-}
-
-.App-link {
-	color: #61dafb;
+	font-family: arial, sans-serif;
+	font-weight: 500;
 }
 
 @media screen and (max-width: 680px) {
